@@ -3,6 +3,10 @@
 
 This Arduino sketch controls a line-following robot using two digital infrared (IR) sensors and a pair of servo motors. The robot detects and follows a line on the ground by making real-time adjustments to its movement.
 
+https://github.com/user-attachments/assets/d3f7bf70-db7c-4a47-a237-0450069cd639
+
+
+
 #### Components Used:
 - **Digital IR Sensors (2x):** Positioned on the right and left sides of the robot to detect the presence of a line.
 - **Servo Motors (2x):** Control the movement of the robot, with one motor for each wheel.
