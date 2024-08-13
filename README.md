@@ -47,8 +47,3 @@ https://github.com/user-attachments/assets/d3f7bf70-db7c-4a47-a237-0450069cd639
 - **Turn Durations:** `TURN_DURATIONleft` and `TURN_DURATIONright` can be adjusted to control the sharpness and duration of the turns.
 - **Motor Speed:** `MOTOR_SPEED` and the values in `driveStraight()`, `turnRight()`, and `turnLeft()` functions can be modified to change the robot's speed and responsiveness.
 
-This code provides a straightforward implementation for a basic line-following robot using digital IR sensors. It’s a great starting point for projects involving autonomous navigation.
-
----
-
-You can adjust the description as needed to fit your specific project details!
