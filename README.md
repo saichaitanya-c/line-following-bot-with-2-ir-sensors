@@ -3,6 +3,10 @@ A line-following robot utilizing two infrared (IR) sensors is designed to autono
 
 Navigation Logic:
 
+
+https://github.com/user-attachments/assets/d3f7bf70-db7c-4a47-a237-0450069cd639
+
+
 The robot uses the signals from the two IR sensors to determine its movement:
 Moving Forward: If both sensors detect white (indicating the robot is on the line), the robot moves forward.
 
